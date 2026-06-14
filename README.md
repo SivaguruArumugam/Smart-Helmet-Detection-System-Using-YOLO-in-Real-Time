@@ -1,6 +1,5 @@
 # 🦺 Smart Helmet Detection System Using YOLOv8
 
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)
@@ -8,8 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### Real-Time Safety Compliance Monitoring Using Computer Vision & Deep Learning
-
-</div>
 
 ---
 
@@ -123,7 +120,6 @@ Smart-Helmet-Detection/
 ├── screenshots/
 │   ├── output1.png
 │   ├── output2.png
-│   └── output3.png
 │
 ├── detect.py
 ├── requirements.txt
