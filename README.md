@@ -296,9 +296,9 @@ The developed Smart Helmet Detection System successfully:
 
 📧 Email: sivaguru.a3011@gmail.com
 
-🔗 LinkedIn: Add Your LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/sivaguru-arumugam-/
 
-💻 GitHub: Add Your GitHub Profile
+💻 GitHub: https://github.com/SivaguruArumugam
 
 ---
 
